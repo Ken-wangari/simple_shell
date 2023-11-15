@@ -1,7 +1,7 @@
-#include "shell.h"
+#include "main.h"
 
 /**
- * input_buf - buffers chained commands
+ * input_buf - Function that buffers chained commands
  * @info: parameter struct
  * @buf: address of buffer
  * @len: address of len var

@@ -1,7 +1,7 @@
-#include "shell.h"
+#include "main.h"
 
 /**
- *_eputs - prints an input string
+ *_eputs - this function prints an input string
  * @str: the string to be printed
  *
  * Return: Nothing
